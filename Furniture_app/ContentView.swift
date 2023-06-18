@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Furniture_app
 //
-//  Created by Abu Anwar MD Abdullah on 14/2/21.
+//  Created by Rohit Patil on 17/06/23.
 //
 
 import SwiftUI
@@ -17,8 +17,11 @@ struct ContentView: View {
     }
 }
 
+
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
     }
 }
+
+
